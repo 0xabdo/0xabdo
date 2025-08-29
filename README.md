@@ -31,13 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdo&show_icons=true&theme=tokyonight" alt="0xabdo stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xabdo&layout=compact&theme=tokyonight" alt="top languages" height="165"/>
-</p>
 
----
 
 ### 🌐 Connect With Me  
 <p align="center">
